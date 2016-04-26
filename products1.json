@@ -1,0 +1,230 @@
+[
+   {
+      "category":"Laptops",
+      "products":[
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 14,590",
+            "name":"\n                   Micromax Canvas Wi-Fi LT666W LT666W Intel Atom Quad Cor...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 25,990",
+            "name":"\n                   HP 15-af114AU P3C92PA#ACJ APU Quad Core A8 - (4 GB DDR3...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 27,970",
+            "name":"\n                   HP AC184TU AC SERIES AC184TU T0X61PA Intel Core i3 (5th...\n               ",
+            "stars":"3 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 28,400",
+            "name":"\n                   Lenovo G50-80 G Series G50-80 80E5039EIH Core i3 (5th G...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 24,490",
+            "name":"\n                   HP 15-ac170tu P6L83PA#ACJ Core i3 (5th Gen) - (4 GB DDR...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 24,990",
+            "name":"\n                   Lenovo G50 G Series Y700-15ISK 80E3020BIH Apu Quad Core...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 46,989",
+            "name":"\n                   HP 15-AC178TX T0Z57PA#ACJ Intel Core i5 (6th Gen) - (8 ...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 21,989",
+            "name":"\n                   HP 15-ac169TU P6L81PA#ACJ Pentium Dual Core - (4 GB DDR...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 44,990",
+            "name":"\n                   Lenovo G50-80 80E5038PIN Intel Core i5 (5th Gen) - (8 G...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 19,798",
+            "name":"\n                   Dell Inspiron 15 3541 3541A64500iBU APU Quad Core A6 - ...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 43,400",
+            "name":"\n                   HP 15-ac123tx N8M28PA Core i5 (5th Gen) - (4 GB DDR3/1 ...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 19,449",
+            "name":"\n                   Dell Vostro 15 3000 3558 dv3558c4500d Celeron Dual Core...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 32,990",
+            "name":"\n                   HP 14-AC108TU P3C95PA#ACJ Core i3 (5th Gen) - (4 GB DDR...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 31,490",
+            "name":"\n                   Lenovo IdeaPad FLEX 2-14 59-428487 Core i3 - (4 GB DDR3...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 18,990",
+            "name":"\n                   Dell Inspiron 15 3551 X560139IN9 Pentium Quad Core - (4...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 31,500",
+            "name":"\n                   Lenovo Yoga 300 80M0007KIN Pentium Quad Core - (4 GB DD...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 34,990",
+            "name":"\n                   Acer Aspire E E5-573G-389U NX.MVMSI.036 Core i3 (5th Ge...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":"Rs. 26,490",
+            "name":"\n                   Asus A555LA-XX2064D A Series XX2064D 90NB0652-M32310 Co...\n               ",
+            "stars":"5 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 40,990",
+            "name":"\n                   HP 15-AC152TX P6L87PA#ACJ Intel Core i5 (6th Gen) - (8 ...\n               ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":"\n\n                    ",
+            "price":" Rs. 26,989",
+            "name":"\n                   HP 15-af008AX N4F83PA#ACJ APU Quad Core A8 - (4 GB DDR3...\n               ",
+            "stars":"4 stars"
+         }
+      ],
+      "time":1461533896.586629
+   },
+   {
+      "category":"\n Televisions ",
+      "products":[
+         {
+            "ratings":" (2817 ratings)",
+            "price":"Rs. 23,990",
+            "name":"\n Vu 102cm (40) Full HD LED TV (2 X HDMI, 1 X USB)\n ",
+            "stars":"4.4 stars"
+         },
+         {
+            "ratings":" (28 ratings)",
+            "price":"Rs. 26,490",
+            "name":"\n BPL Vivid 101cm (40) Full HD LED TV (2 X HDMI, 2 X USB)\n ",
+            "stars":"4.4 stars"
+         },
+         {
+            "ratings":" (242 ratings)",
+            "price":"Rs. 23,990",
+            "name":"\n Sansui 102cm (40) Full HD LED TV (4 X HDMI, 2 X USB)\n ",
+            "stars":"3.9 stars"
+         },
+         {
+            "ratings":" (924 ratings)",
+            "price":"Rs. 35,990",
+            "name":"\n Micromax 106cm (42) Ultra HD (4K) Smart LED TV (3 X HDM...\n ",
+            "stars":"3.9 stars"
+         },
+         {
+            "ratings":" (1424 ratings)",
+            "price":"Rs. 15,490",
+            "name":"\n Vu 80cm (32) HD Ready LED TV (2 X HDMI, 2 X USB)\n ",
+            "stars":"4.3 stars"
+         },
+         {
+            "ratings":" (743 ratings)",
+            "price":"Rs. 18,490",
+            "name":"\n Vu 80cm (32) Full HD LED TV (2 X HDMI, 2 X USB)\n ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":" (337 ratings)",
+            "price":"Rs. 20,958",
+            "name":"\n Samsung 80 (32) HD Ready LED TV (1 X HDMI, 1 X USB)\n ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":" (571 ratings)",
+            "price":"Rs. 19,840",
+            "name":"\n LG 80cm (32) HD Ready LED TV (2 X HDMI, 1 X USB)\n ",
+            "stars":"4.1 stars"
+         },
+         {
+            "ratings":" (461 ratings)",
+            "price":"Rs. 11,490",
+            "name":"\n Samsung 55cm (22) Full HD LED TV (2 X HDMI, 2 X USB)\n ",
+            "stars":"4.2 stars"
+         },
+         {
+            "ratings":" (88 ratings)",
+            "price":"Rs. 8,490",
+            "name":"\n Panasonic 47cm (19) HD LED TV (1 X HDMI, 1 X USB)\n ",
+            "stars":"4.1 stars"
+         },
+         {
+            "ratings":" (144 ratings)",
+            "price":"Rs. 12,068",
+            "name":"\n Samsung 58cm (23) HD Ready LED TV (1 X HDMI, 1 X USB)\n ",
+            "stars":"4.1 stars"
+         },
+         {
+            "ratings":" (74 ratings)",
+            "price":"Rs. 10,490",
+            "name":"\n Vu 60cm (24) Full HD LED TV (1 X HDMI, 1 X USB)\n ",
+            "stars":"3.6 stars"
+         },
+         {
+            "ratings":" (239 ratings)",
+            "price":"Rs. 33,490",
+            "name":"\n Micromax 127cm (50) Full HD LED TV (2 X HDMI, 2 X USB)\n ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":" (65 ratings)",
+            "price":"Rs. 64,990",
+            "name":"\n Vu 140cm (55) Ultra HD (4K) Smart LED TV (4 X HDMI, 3 X...\n ",
+            "stars":"4.3 stars"
+         },
+         {
+            "ratings":" (86 ratings)",
+            "price":"Rs. 49,990",
+            "name":"\n Vu 127cm (50) Ultra HD (4K) Smart LED TV (4 X HDMI, 3 X...\n ",
+            "stars":"4 stars"
+         },
+         {
+            "ratings":" (19 ratings)",
+            "price":"Rs. 59,000",
+            "name":"\n LG 123cm (49) Full HD LED TV (2 X HDMI, 1 X USB)\n ",
+            "stars":"3.8 stars"
+         }
+      ],
+      "time":1461533897.355907
+   }
+]
